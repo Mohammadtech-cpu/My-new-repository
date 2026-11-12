@@ -17,4 +17,4 @@ and projects while learning GitHub.
 
 ## Author
 
-Mohammad
+Mohammad Hasan
